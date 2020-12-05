@@ -1,0 +1,11 @@
+For a given competition name and year, find the number of goals that was scored
+by the winner of the competition.
+
+Example API URL for winner :
+https://jsonmock.hackerrank.com/api/football_competitions?name=Name&year=2011
+
+Example API URL for home matches :
+https://jsonmock.hackerrank.com/api/football_matches?competition=Name&year=2011&team1=Chelsea&page=1
+
+Example API URL for away matches :
+https://jsonmock.hackerrank.com/api/football_matches?competition=Name&year=2011&team2=Chelsea&page=1

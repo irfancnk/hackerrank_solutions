@@ -1,0 +1,6 @@
+For a given year, find the number of matches that ended draw using the API with
+
+Example URL :
+https://jsonmock.hackerrank.com/api/football_matches?year=2011&page=1
+
+Requires parallel requests for passing all test cases in time.
