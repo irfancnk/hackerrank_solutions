@@ -1,0 +1,3 @@
+Write a getTeams method that takes a year argument "year" and count argument "k".
+Returns the list of teams whose match counts is higher than the given count. 
+Data fetching is paginated.

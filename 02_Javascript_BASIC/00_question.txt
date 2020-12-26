@@ -1,0 +1,10 @@
+Write a simple function that returns a function which returns a string.
+Returned function should take varying number of parameters which are message objects like:
+{
+    level: 10,
+    text: "foo"    
+}
+Calling the function returned from 
+joinedLogger(15, ";")(ms1, ms2, ms3)
+where ms1, ms2 and ms3 has 10, 20 and 30 levels respectively should
+return the messages of ms2 and ms3 with seperator delimeter.
